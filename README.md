@@ -1,5 +1,6 @@
 ### Hey there, I'm Ashish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+### Connect with me:
 <a href="https://www.linkedin.com/in/ashish-amar-419166a9/">
   <img align="left" alt="Ashish's Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,6 +19,7 @@
 <a href="https://www.instagram.com/ashish_amar_/">
   <img align="left" alt="Ashish's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+![](https://komarev.com/ghpvc/?username=Ashishamar99&color=blue&style=flat-square)
 <!--
 <a href="https://leetcode.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
