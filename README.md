@@ -25,18 +25,9 @@
 <img align="left" alt="Ashish's Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" />
 </a>
 
-<style>
-.alignright
-{
-  float: right;
-}
-</style>
-<div class = "alignright">
-<!-- Needs a blank line between the opening tag and the profile viewer-->
 
 ![](https://komarev.com/ghpvc/?username=Ashishamar99&color=blue&style=flat-square)
-</div>
-<br />
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ### A little about me
