@@ -31,7 +31,6 @@
 
 <img src="Images/guy on computer.gif" height="260" align="right"/>
 
-----------------------------------------------------------------------------------------------------------------------------------------
 
 ### A little about me:
 I'm Ashish Amar, a Computer Science Undergrad at KSIT, Bangalore. I'm mostly a Backend Developer, but sometimes I code Full Stack Apps as well. I always try to learn new things and boost my knowledge. Apart from "cooking" good code, I also enjoy cooking food and teaching others. Feel free to check out a few [articles I've written.](https://medium.com/@ashishamar1999) I also post random tech related articles as often as I can on a telegram channel called ["The Tech Channel"](https://t.me/the_tech_channel), so that people are aware of what's around.
