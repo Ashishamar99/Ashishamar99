@@ -1,5 +1,7 @@
 ### Hey there, I'm Ashish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ashish-amar-419166a9/">
   <img align="left" alt="Ashish's Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,11 +25,15 @@
 <img align="left" alt="Ashish's Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" />
 </a>
 
-### A little about me
 <!--
 Profile View Counter.
 ![](https://komarev.com/ghpvc/?username=Ashishamar99&color=blue&style=flat-square)
 -->
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+### A little about me
+
 <!--
 <a href="https://leetcode.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
