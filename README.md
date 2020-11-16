@@ -19,7 +19,11 @@
 <a href="https://www.instagram.com/ashish_amar_/">
   <img align="left" alt="Ashish's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="mailto:ashishamar1999@gmail.com">
+<img align="left" alt="Ashish's Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" />
+</a>
 
+### A little about me
 <!--
 Profile View Counter.
 ![](https://komarev.com/ghpvc/?username=Ashishamar99&color=blue&style=flat-square)
