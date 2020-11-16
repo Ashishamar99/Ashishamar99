@@ -30,10 +30,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-### A little about me
+<img src="Images/guy on computer.gif" align="right"/>
+### A little about me:
+I'm Ashish Amar, a Computer Science Undergrad at KSIT, Bangalore. I'm mostly a Backend Developer, but sometimes I do code full stack apps as well. I always try to learn new things and boost my knowledge. Apart from "cooking" good code, I also enjoy cooking food and teaching others.
 
-<!--
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
--->
+----------------------------------------------------------------------------------------------------------------------------------------
