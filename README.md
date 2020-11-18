@@ -25,10 +25,10 @@
 <img align="left" alt="Ashish's Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" />
 </a>
 
-<br />
 <!--
 ![](https://komarev.com/ghpvc/?username=Ashishamar99&color=blue&style=flat-square)
 -->
+<br />
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="Images/guy on computer.gif" height="260" align="right"/>
