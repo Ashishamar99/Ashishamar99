@@ -16,7 +16,7 @@
   <img align="left" alt="Ashish's Stackoverflow" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://t.me/ashishamar">
-  <img align="left" alt="Ashish's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ashish's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="color:#2CA5E0;"/>
 </a>
 <a href="https://www.instagram.com/ashish_amar_/">
   <img align="left" alt="Ashish's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
