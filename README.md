@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/ashish-amar-419166a9/">
   <img align="left" alt="Ashish's Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@ashishamar1999">
-  <img align="left" alt="Abhishek's Medium Blog" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://medium.com/@ashishamar">
+  <img align="left" alt="Ashish's Medium Blog" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.hackerrank.com/ashishamar1999">
   <img align="left" alt="Ashish's Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
