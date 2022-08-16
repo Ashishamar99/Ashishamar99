@@ -1,28 +1,35 @@
-### Hey there, I'm Ashish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm Ashish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ashish-amar-419166a9/">
-  <img align="left" alt="Ashish's Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ashish's Linkedin" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg-->
 </a>
 <a href="https://medium.com/@ashishamar99">
-  <img align="left" alt="Ashish's Medium Blog" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Ashish's Medium Blog" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" />
+  <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
 </a>
 <a href="https://www.hackerrank.com/ashishamar1999">
-  <img align="left" alt="Ashish's Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Ashish's Hackerrank" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226" />
+  <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
 </a>
 <a href="https://stackoverflow.com/users/11144439/ashish-amar">
-  <img align="left" alt="Ashish's Stackoverflow" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Ashish's Stackoverflow" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />
+  <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
 </a>
 <a href="https://t.me/ashishamar">
-  <img align="left" alt="Ashish's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
+  <img align="left" alt="Ashish's Telegram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/>
+  <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
 </a>
 <a href="https://www.instagram.com/ashish_amar_/">
-  <img align="left" alt="Ashish's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ashish's Instagram" width="25px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1660669604~hmac=20b512cde9f4f36c8a0ab62d2bafaf2a" />
+  <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
 </a>
 <a href="mailto:ashishamar1999@gmail.com">
-<img align="left" alt="Ashish's Mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" />
+<img align="left" alt="Ashish's Mail" width="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+<!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
 </a>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Ashishamar99&color=blue&style=flat-square) -->
