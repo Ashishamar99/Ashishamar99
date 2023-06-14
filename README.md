@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/ashish-amar-419166a9/">
+<a href="https://www.linkedin.com/in/ashishamar/">
   <img align="left" alt="Ashish's Linkedin" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg-->
 </a>
