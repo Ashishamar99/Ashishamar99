@@ -23,7 +23,7 @@
   <img align="left" alt="Ashish's Telegram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/>
   <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
 </a>
-<a href="https://www.instagram.com/ashish_amar_/">
+<a href="https://www.instagram.com/ashish_amar/">
   <img align="left" alt="Ashish's Instagram" width="25px" src="Images/instagram icon.png" />
   <!--Flaticon src = https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1660669604~hmac=20b512cde9f4f36c8a0ab62d2bafaf2a-->
   <!--Simple icons src = https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg-->
